@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python: your project name",
+            "type": "python",
+            "request": "launch",
+            "cwd": "/Users/aikanarov/Repos/whisper",
+        }
+    ]
+}

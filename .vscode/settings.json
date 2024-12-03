@@ -1,0 +1,11 @@
+{
+    "python.pythonPath": "/Users/aikanarov/Library/Caches/pypoetry/virtualenvs/whisper-J9wzkuPt-py3.11/bin/python",
+    "python.dataScience.runStartupCommands": [
+        "%cd /Users/aikanarov/Repos/whisper"
+    ],
+    "python.envFile": "${workspaceFolder}/.env",
+    "terminal.integrated.env.osx": {
+        "PYTHONPATH": "${workspaceFolder}"
+    },
+    "jupyter.notebookFileRoot": "${workspaceFolder}"
+}
